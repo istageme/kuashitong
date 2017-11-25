@@ -34,7 +34,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script type='text/javascript'>\r\n    (function(m, ei, q, i, a, j, s) {\r\n        m[i] = m[i] || function() {\r\n            (m[i].a = m[i].a || []).push(arguments)\r\n        };\r\n        j = ei.createElement(q),\r\n            s = ei.getElementsByTagName(q)[0];\r\n        j.async = true;\r\n        j.charset = 'UTF-8';\r\n        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';\r\n        s.parentNode.insertBefore(j, s);\r\n    })(window, document, 'script', '_MEIQIA');\r\n    _MEIQIA('entId', 86926);\r\n</script>",
+    "google-analytics": "<script type='text/javascript'>\r\n    (function(m, ei, q, i, a, j, s) {\r\n        m[i] = m[i] || function() {\r\n            (m[i].a = m[i].a || []).push(arguments)\r\n        };\r\n        j = ei.createElement(q),\r\n            s = ei.getElementsByTagName(q)[0];\r\n        j.async = true;\r\n        j.charset = 'UTF-8';\r\n        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';\r\n        s.parentNode.insertBefore(j, s);\r\n    })(window, document, 'script', '_MEIQIA');\r\n    _MEIQIA('entId', 87197);\r\n</script>\r\n",
     "cookiesAlert": "",
     "sitemapSwitcher": "on",
     "versionFirst": "4.3.4",
